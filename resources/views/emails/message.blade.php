@@ -1,0 +1,1 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><title>{{ $messageSubject }}</title></head><body style="font-family:Arial,sans-serif;color:#244537;line-height:1.7"><h1>{{ $messageSubject }}</h1><div style="white-space:pre-wrap">{{ $messageBody }}</div><hr><p style="font-size:12px;color:#66786a">POS-System</p></body></html>

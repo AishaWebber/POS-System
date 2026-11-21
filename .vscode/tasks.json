@@ -1,0 +1,1 @@
+{"version":"2.0.0","tasks":[{"label":"POS-System: setup","type":"shell","command":"php setup.php","problemMatcher":[]},{"label":"POS-System: run","type":"shell","command":"php artisan serve","isBackground":true,"problemMatcher":[]},{"label":"POS-System: tests","type":"shell","command":"php artisan test","problemMatcher":[]}]}

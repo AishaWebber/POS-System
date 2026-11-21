@@ -1,0 +1,5 @@
+{{ $messageSubject }}
+
+{{ $messageBody }}
+
+POS-System
